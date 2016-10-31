@@ -10,6 +10,7 @@ import java.util.Set;
 public class _3LongSubRepeat {
 
     public static void main(String[] args) {
+
         String str = "aabca";
         System.out.println(getMaxRepeat(str));
 
