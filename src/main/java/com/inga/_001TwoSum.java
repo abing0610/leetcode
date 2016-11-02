@@ -1,14 +1,12 @@
 package com.inga;
 
-import com.sun.tools.corba.se.idl.ExceptionEntry;
-
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * Created by abing on 2016-10-31.
  */
-public class _1TwoSum {
+public class _001TwoSum {
 
     public static void main(String[] args) {
         int[] nums = {2,3,4,5};

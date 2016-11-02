@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by abing on 2016-10-31.
  */
-public class _2AddTwoNums {
+public class _002AddTwoNums {
 
     public static void main(String[] args) {
         ListNode t1 = new ListNode(3);
